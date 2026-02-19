@@ -30,6 +30,7 @@ O DevLinks é um agregador de links para usar como cartão de visitas online.
 Este é meu primeiro projeto que exigiu um pouco mais de conhecimento e técnica, graças as aulas do Mayk Brito/Rocketseat consegui executar perfeitamente e aprimorar este site para ficar do jeito que eu gostaria, com minhas informações e dados para contato.
 
 Espero que gostem!
+Veja o resultado clicando [aqui!](https://pietroalex4.github.io/Projeto-Paginas/)
 
 ## 🔖 Layout
 

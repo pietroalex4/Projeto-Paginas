@@ -125,7 +125,7 @@ ul li a{
   backdrop-filter: blur(4px);
   text-decoration: none;
   font-weight: 500;
-  transition: background 0,2s;
+  transition: background 0.2s;
 }
 
 /*hover - para interação do mouse*/
@@ -168,7 +168,7 @@ footer{
   }
 
   .light{
-        --bg-url: url(./assets/bg-desktop-light.jpg)
+    --bg-url: url(./assets/bg-desktop-light.jpg);
   }
 }
 
